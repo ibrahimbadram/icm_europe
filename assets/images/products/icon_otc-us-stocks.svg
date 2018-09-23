@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="135px" height="135px" viewBox="0 0 135 135" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 33 Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="48.67909" cy="54.9265644" rx="18.4386096" ry="18.4641916"></ellipse>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.774447279   0 0 0 0 0.774447279   0 0 0 0 0.774447279  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy-4-+-Path-Copy-5-Copy" transform="translate(15.000000, 16.000000)">
+            <g id="Group-Copy-4">
+                <circle id="Oval-Copy-2" fill="#F1F1F1" cx="52.5" cy="52.5" r="52.5"></circle>
+                <rect id="Rectangle-39" fill="#3B3B3B" x="47.822155" y="0" width="2.81306794" height="102.67698"></rect>
+                <polyline id="Path-100" stroke="#2A79BC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="7.64528134 73.6836151 17.3825072 58.5647484 35.2114242 85.8809019 61.9815842 42.0514472 69.7230153 47.967406 75.3670076 36.7590884 80.320095 52.1512951 93.5386298 26.1100759 102.93315 33.8787156 114.470706 14.8271484"></polyline>
+                <polygon id="Triangle-10" fill="#2A79BC" transform="translate(113.500000, 13.203267) scale(-1, -1) rotate(90.000000) translate(-113.500000, -13.203267) " points="113.5 7.70326699 120 18.703267 107 18.703267"></polygon>
+                <g id="Oval-Copy-8">
+                    <use fill="#DADADA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#B4B4B4" stroke-width="3" xlink:href="#path-1"></use>
+                </g>
+                <path d="M42.6483174,61.2364299 C43.8705952,62.507699 45.7288484,63.2848122 47.4445975,63.5441217 L47.4445975,65.6870949 L50.007228,65.6870949 L50.007228,63.5441217 C53.0169142,63.0727981 54.7098626,60.9069926 54.7098626,58.4109344 C54.7098626,53.2076193 47.0683867,53.3486903 47.0683867,51.3476034 C47.0683867,50.4057716 48.0089137,50.0290389 48.8549807,50.0290389 C50.1717184,50.0290389 51.6293316,50.7115611 52.5698585,51.5123221 L54.3100369,48.1453752 C53.087759,47.0624725 51.559301,46.4737257 50.007228,46.309007 L50.007228,44.1660338 L47.4445975,44.1660338 L47.4445975,46.3791348 C44.8347371,46.8732907 42.9536832,48.7569543 42.9536832,51.3940834 C42.9536832,56.4563276 50.5951591,56.6210462 50.5951591,58.5047099 C50.5951591,59.5174849 49.6782472,59.8469221 48.8313658,59.8469221 C47.3973676,59.8469221 45.7980647,58.9988658 44.8103078,58.1043294 L42.6483174,61.2364299 L42.6483174,61.2364299 Z" id="Shape-Copy-10" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

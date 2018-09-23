@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 1 Copy 2 + Rectangle 1 Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Main-full-menu+hovers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iPhone-5-320-menu+hover" sketch:type="MSArtboardGroup" transform="translate(-24.000000, -22.000000)" fill="#44c3d2">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(-256.000000, -21.000000)">
+                <g id="Rectangle-1-Copy-2-+-Rectangle-1-Copy-5" transform="translate(279.000000, 42.000000)" sketch:type="MSShapeGroup">
+                    <path d="M-1.65319866,12.1799082 C-1.65319866,11.0017007 -0.697351236,10.0465748 0.489509676,10.0465748 L23.5107597,10.0465748 C24.6941448,10.0465748 25.653468,10.9998243 25.653468,12.1838429 L25.653468,10.4693068 C25.653468,11.6496873 25.653468,13.5597047 25.653468,14.3132415 L25.653468,12.6065748 C25.653468,13.5491408 24.6976206,14.3132415 23.5107597,14.3132415 L0.489509676,14.3132415 C-0.69387546,14.3132415 -1.65319866,13.3663299 -1.65319866,12.1799082 L-1.65319866,12.1799082 Z" id="Rectangle-1-Copy-2" transform="translate(12.000135, 12.179908) rotate(-45.000000) translate(-12.000135, -12.179908) "></path>
+                    <path d="M-1.65319866,11.5665748 C-1.65319866,10.3883674 -0.697351236,9.43324149 0.489509676,9.43324149 L23.5107597,9.43324149 C24.6941448,9.43324149 25.653468,10.386491 25.653468,11.5705096 L25.653468,9.85597342 C25.653468,11.036354 25.653468,12.9463714 25.653468,13.6999082 L25.653468,11.9932415 C25.653468,12.9358075 24.6976206,13.6999082 23.5107597,13.6999082 L0.489509676,13.6999082 C-0.69387546,13.6999082 -1.65319866,12.7529965 -1.65319866,11.5665748 L-1.65319866,11.5665748 Z" id="Rectangle-1-Copy-5" transform="translate(12.000135, 11.566575) rotate(-315.000000) translate(-12.000135, -11.566575) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

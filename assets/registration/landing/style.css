@@ -1,0 +1,152 @@
+header {
+    background: #fff url(../../images/header_ornament.png) no-repeat 24% 0;
+    padding: 39px 0;
+}
+.align-right {
+	text-align:right;
+}
+
+.phone-number {
+	right:30px;
+     position: absolute;
+	 font-size:20px;
+	 width:210px;
+}
+
+.phone-number a {
+	position:relative;
+	float:left;
+	width:100%;
+	margin-bottom:20px;
+     text-align: right;
+}
+
+.half-width {
+	width:50%;
+	position:relative;
+	float:left;
+}
+
+.row {
+	width:100%;
+	position:relative;
+	float:left;
+}
+.title_1 {
+	font-size:20px;
+	color: #0c4f7c;
+	list-style:none;
+	margin-bottom:20px;
+}
+.half-width li {
+	list-style:none;
+}
+
+.margin-top-15 {
+	margin-top:15px;
+}
+.margin-top-30 {
+	margin-top:30px;
+}
+.margin-top-50 {
+	margin-top:50px;
+}
+.margin-bottom-30 {
+	margin-bottom:30px;
+}
+.text-align-center {
+	text-align:center;
+}
+.navy-color {
+	color:#0f4879;
+	font-weight:900;
+}
+.images-style  {
+	position:relative;
+	float:left;
+	width:100%;
+	margin-bottom:2px !important;
+}
+.images-style img {
+	margin:3px 5px 0 0;
+	position:relative;
+	float:left;
+	max-width:100%;
+}
+.images-style font {
+	position:relative;
+	float:left;
+	text-align:left;
+	width:85%;
+	font-size:19px;
+}
+.images-box {
+	position:relative;
+	float:left;
+	width:35px;
+}
+.image-all-box {
+	display:inline-block;
+}
+.image-l-box {
+	width:32%;
+}
+.image-m-box {
+	width:32%;
+	float:left;
+}
+.image-s-box {
+	width:18%;
+}
+.image-all-box img {
+	max-width:100%;
+}
+.radial-progress-title {
+	margin-bottom:30px;
+}
+
+@media screen and (max-width: 605px) {
+	.margin-top-50 {
+	margin-top:0;
+}
+.margin-bottom-30 {
+	margin-bottom:0;
+}
+	.image-l-box {
+	width:45%;
+}
+	.image-m-box {
+	width:45%;
+}
+.image-s-box {
+	width:45%;
+}
+	.header { height:inherit; }
+	#header-logo{
+		text-align:center;
+	}
+	.phone-number {
+		position:relative;
+		margin-top:30px;
+		right:inherit;
+	}
+	.phone-number a {
+		
+		text-align:center;
+	}
+	header {
+		padding:39px 0 0 0;
+	}
+	.half-width {
+		width:100%;
+	}
+	.half-width ol li {
+	margin-top:20px;
+}
+.mobile-hide-bg {
+	background:none !important;
+}
+.head-block__img-block {
+	margin:0 !important;
+}
+}

@@ -1,0 +1,150 @@
+<?php
+$lang['key']='es';
+
+$lang['home']="ICM";
+$lang['home_products_title']= "Productos";
+$lang['home_products_sub_title']= "Obtenga beneficio del mercado financiero y acérquese a nuestra línea completa de productos de inversión para apoyar sus metas comerciales.";
+$lang['home_products_p1_title']= "DIVISAS DE CONTADO OTC";
+$lang['home_products_p2_title']= "METALES PRECIOSOS OTC";
+$lang['home_products_p3_title']= "ACCIONES ESTADOUNIDENSES";
+$lang['home_products_p4_title']= "MONEDAS FUTUROS OTC";
+$lang['home_products_p5_title']= "FUTUROS ENERGÉTICOS OTC";
+$lang['home_products_p6_title']= "ÍNDICE DE FUTUROS OTC";
+$lang['home_products_p7_title']= "METALES FUTUROS OTC";
+$lang['home_products_p8_title']= "CRIPTOMONEDAS";
+$lang['home_banner1_description']= '<font>
+						<strong class="navy_color font_40"><strong>ICM</strong> Official Sponsors</strong></font> 
+						<span> <strong class="banner_strong font_20"> <span class="banner_span ">World Cycling<br>
+                Sponsors of The England Polo Team<br />
+                Fulham FC </span></strong> </span> 
+						<font class="full-width regulation_banner">Todas las operaciones involucran riesgo. Las pérdidas pueden exceder los depósitos.</font> 
+						</span>';
+$lang['home_banner2_description']= '<font class="icm_banner_color font_40" ><strong>ICM</strong> </font> <strong class="dark_grey_color font_30"><span >Proud Sponsors of the</span></strong><br><strong class="dark_grey_color font_30"><span >England Polo Team</span></strong><br>
+                <span class="dark_grey_color font_30">at Chestertons Polo in<span>&nbsp;</span><br>
+                the Park 2018 </span> <font class="full-width regulation_banner" >Todas las operaciones involucran riesgo. Las pérdidas pueden exceder los depósitos.</font>';
+$lang['home_banner3_description']= '<font class="white_color font_30"><br>
+                  Trade<span class="yellow_color font_40"><span>&nbsp;</span><strong>Bitcoin&nbsp;</strong></span>CFD Online<br>
+                  Discover the World\'s #1 Criptomonedas</font> <font class="full-width white_color">Highly Volatile. Todas las operaciones involucran riesgo. Las pérdidas pueden exceder los depósitos.</font>';
+$lang['home_banner4_description']= '<font class="yellow_color font_30">Excess of FSCS Insurance</font><br />
+                  <font class="dark_grey_color font_18"> For more details on FSCS insurance please <a href="https://www.fscs.org.uk/"  target="_blank">click here</a>.<br />
+                  Retail client funds individually <br />
+                  covered up to £1,000,000 in the event <br />
+                  that ICM Capital becomes insolvent* <br />
+                  <a href="https://www.icmcapital.co.uk/es/landing-pages/2017/GBP1-000-000-Insurance?cmpnid=tTJfK5moK1rKkUhek07$CeATDLv2" target="_blank">*Terms and Conditions apply</a></font> <font class="full-width regulation_banner" >Todas las operaciones involucran riesgo. Las pérdidas pueden exceder los depósitos.</font> ';
+$lang['home_banner5_description']= '<font class="yellow_color font_30">Excess of FSCS Insurance</font><br />
+                  <font class="white_color font_18">Trading Central
+                  Technical Analysis<br />
+                  Free MT4 Trade Indicators<br />
+                  In-depth Daily Market Reports<br />
+                  Analyst Views</font> <br />
+                  <font class="full-width white_color" >Todas las operaciones involucran riesgo. Las pérdidas pueden exceder los depósitos.</font> ';
+
+$lang['home_banner1_mobile_description']= '<h1 class="white_color" >ICM The Official Sponsor of the</h1>
+          <div class="white_color"><strong ><span >World Cycling Revival 2018</span></strong>
+            <img  src="assets/images/slider/cyclingrevival-fb.png?width=110&amp;height=110" >
+            <div style="clear: both;"></div>
+            </div>
+          <p class="white_color" >Todas las operaciones involucran riesgo. Las pérdidas pueden exceder los depósitos.</p>';
+
+
+$lang['home_banner2_mobile_description']= '<div>
+            <h2 class="icm_banner_color" ><span >ICM </span> <span class="dark_grey_color"> <strong>cTrader</strong></span></h2>
+          </div>
+          <p class="dark_grey_color" ><span>Designed by traders, for traders. <br>
+            Innovative, Sophisticated &amp; Revolutionary.</span></p>
+          <p  class="regulation_banner">Todas las operaciones involucran riesgo. Las pérdidas pueden exceder los depósitos.</p>';
+
+$lang['home_banner3_mobile_description']= '<span class="white_color font_24" ><br>
+            Trade<span ><span>&nbsp;</span><strong class="yellow_color">Bitcoin&nbsp;</strong></span>CFD Online<br>
+            Discover the World\'s #1 Criptomonedas</span>
+          <p class="white_color">Highly Volatile. Todas las operaciones involucran riesgo. Las pérdidas pueden exceder los depósitos.</p>';
+
+$lang['home_banner4_mobile_description']= '<h2 class="bordered font_24 white_color" >A New Partnership</span><br>
+            <span class="white_color"><strong>Fulham FC &amp; ICM </strong></span></h2>
+          <p class="white_color"><span>Focus, Skill, Timing - It all comes down to this...<br>
+            Get in the game - FX Trading with ICM </span></p>
+          <p class="white_color">Todas las operaciones involucran riesgo. Las pérdidas pueden exceder los depósitos.</p>';
+
+$lang['home_banner5_mobile_description']= '<h1 >ICM </h1>
+          <div class="font_24"><strong><span >Proud Sponsors of the</span></strong><br>
+            <strong><span s>England Polo Team</span></strong><br>
+            <span >at Chestertons Polo in<span>&nbsp;</span><br>
+            the Park 2018</span></div>
+          <p class="box">Todas las operaciones involucran riesgo. Las pérdidas pueden exceder los depósitos.</p>';
+
+
+
+$lang['home_platforms_title']= 'Smartphone, Tableta y Trading PC';
+$lang['home_windows_title']= 'Windows';
+$lang['home_app_store_title']= 'App Store';
+$lang['home_goole_play_title']= 'Google Play';
+
+$lang['home_event1_title']= 'ICM Seminar';
+$lang['home_event1_loc']= 'Location: Jordan, Amman';
+$lang['home_event1_date']= '22<sup>nd</sup> - 24<sup>th</sup> May 2018 ';
+
+$lang['home_event2_title']= 'BrokersShow Top-Tier Forex';
+$lang['home_event2_loc']= 'Location: Kempinski Hotel Changsha';
+$lang['home_event2_date']= '9<sup>th</sup> May 2018 ';
+
+$lang['home_event3_title']= 'BrokersShow Top-Tier Forex';
+$lang['home_event3_loc']= 'Location: Hyatt Recency Jinan';
+$lang['home_event3_date']= '26<sup>th</sup> November 2017';
+
+$lang['home_economic_calendar_title']= 'Calendario económico';
+$lang['home_gmt_title']= 'GMT+1';
+$lang['home_event_title']= 'Evento';
+$lang['home_imp_title']= 'Imp.';
+$lang['home_actual_title']= 'Actual';
+$lang['home_forecast_title']= 'Pron.';
+$lang['home_previous_title']= 'Anterior';
+$lang['home_online_quotes_title']= 'Ofertas en Línea';
+$lang['home_forex_title']= 'Forex';
+$lang['home_indices_title']= 'Índices';
+$lang['home_commodities_title']= 'Productos Básicos';
+$lang['home_us_stocks_title']= 'Acciones Americanas';
+$lang['home_sell_title']= 'Sell';
+$lang['home_buy_title']= 'Buy';
+
+$lang['home_awards_title']= 'Premios';
+
+$lang['home_connect_with_us_title']= 'Únase';
+$lang['home_subscribe_title']= 'Suscribir';
+$lang['home_subscribe_sub_title']= 'Suscríbase ahora para recibir nuestro INFORME DIARIO GRATIS DEL MERCADO';
+$lang['home_full_name_error_msg']= 'Ingrese el nombre completo en el formato válido (es decir, John Smith).';
+$lang['home_full_name_placeholder']= 'Nombre Completo';
+$lang['home_email_error_msg']= 'Ingrese el correo electrónico en el formato válido (es decir, john.smith@gmail.com).';
+$lang['home_email_placeholder']= 'Dirección de Correo Electrónico';
+$lang['home_phone_error_msg']= 'Formato inválido (es decir, +44 20 7234 3456).';
+$lang['home_phone_placeholder']= 'Número de teléfono';
+$lang['home_subscribe_button']= 'Suscribir';
+$lang['email_success_sent']= 'Su correo electrónico enviado con éxito.';
+$lang['email_already_exist']= 'el Email ya existe!';
+
+$lang['home_first_name_error_msg']= 'Ingrese el nombre en el formato válido (es decir, John).';
+$lang['home_last_name_error_msg']= 'Ingrese el apellido en el formato válido (es decir, Smith).';
+$lang['home_first_name_placeholder']= 'Nombre de pila';
+$lang['home_last_name_placeholder']= 'Apellido';
+$lang['home_phone_error_msg2']= 'Formato inválido (es decir, 207234 3456).';
+$lang['home_phone_code_error_msg']= 'Formato inválido (es decir, +123).';
+$lang['home_give_consent_msg']= 'Sí, doy mi consentimiento';
+$lang['home_accept_terms_msg']= 'Aceptar terminos y condiciones';
+
+$lang['about']="About Us";
+$lang['login']="Sign In";
+$lang['lang_select']="Select Language";
+
+$lang['content_head']="Welcome to";
+$lang['content']="Carnatic music the other sub-genre being Hindustani music, which emerged as a distinct form because of Persian and Islamic influences in North India. In contrast to Hindustani music, the main emphasis in Carnatic music is on vocal music; most compositions are written to be sung, and even when played on instruments, they are meant to be performed in gāyaki (singing) style.";
+$lang['read_more']='Read More';
+$lang['comments']='Comments';
+
+$lang['categories']='Categories';
+$lang['profile']='Profile';
+$lang['ch_pass']='Change Password';
+$lang['my_page']='My Page';
+$lang['gallary']='Gallery';
+$lang['logout']='Sign Out';
+$lang['check_please']= 'Comprueba, por favor';
+$lang['code']= 'el código';
+?>

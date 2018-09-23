@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="23px" viewBox="0 0 14 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>Awards big</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0729166667 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="About-us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Awards-big" sketch:type="MSArtboardGroup" transform="translate(-890.000000, -530.000000)" filter="url(#filter-1)" fill="#FFFFFF">
+            <path d="M904.181666,553.752734 L904.181666,601.002382 C904.181666,603.760963 906.423298,606 909.188492,606 L1449.06424,606 C1451.82663,606 1454.07107,603.76249 1454.07107,601.002382 L1454.07107,481.997618 C1454.07107,479.239037 1451.82944,477 1449.06424,477 L909.188492,477 C906.426104,477 904.181666,479.23751 904.181666,481.997618 L904.181666,529.247266 L891.928932,541.5 L904.181666,553.752734 Z" id="Mask" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

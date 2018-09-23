@@ -1,0 +1,101 @@
+@charset "utf-8";
+* {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+*:before,
+*:after {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+.transition-1ms {
+-webkit-transition: all 1ms ease;
+-moz-transition: all 1ms ease;
+-ms-transition: all 1ms ease;
+-o-transition: all 1ms ease;
+transition: all 1ms ease;
+}
+.transition-5ms {
+-webkit-transition: all 5ms ease;
+-moz-transition: all 5ms ease;
+-ms-transition: all 5ms ease;
+-o-transition: all 5ms ease;
+transition: all 5ms ease;
+}
+@font-face {
+font-family: 'DaxRegular';
+font-style: normal;
+font-weight: 400;
+src: local('DaxRegular'), local('DaxRegular'),
+url('../fonts/DaxRegular.ttf') format('truetype')/*, 
+url('../fonts/signika-v7-latin-regular.eot?#iefix') format('embedded-opentype'), 
+url('../fonts/signika-v7-latin-regular.woff2') format('woff2'), 
+url('../fonts/signika-v7-latin-regular.woff') format('woff'), 
+url('../fonts/signika-v7-latin-regular.svg#Signika') format('svg')*/; 
+}
+
+@font-face {
+font-family: 'DaxBold';
+font-style: normal;
+font-weight: 400;
+src: local('DaxBold'), local('DaxBold'),
+url('../fonts/DaxBold.ttf') format('truetype')/*, 
+url('../fonts/signika-v7-latin-regular.eot?#iefix') format('embedded-opentype'), 
+url('../fonts/signika-v7-latin-regular.woff2') format('woff2'), 
+url('../fonts/signika-v7-latin-regular.woff') format('woff'), 
+url('../fonts/signika-v7-latin-regular.svg#Signika') format('svg')*/; 
+}
+
+html {
+padding:0;
+margin:0;
+color:#615435;
+font-size:13px;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, blockquote, th, td, p {
+margin:0;
+padding:0
+}
+a {
+outline:none;
+text-decoration:none;
+cursor:pointer
+}
+body {
+width:100%;
+overflow-x:hidden;
+font-family: 'DaxRegular';
+
+}
+input,
+select,
+textarea,
+button {
+-webkit-appearance: none;
+appearance: none;
+border-radius: 0;
+}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+outline: none;
+}
+li {
+list-style-type:none
+}
+.cur {
+cursor:pointer
+}
+img {
+border:0
+}
+#maincontainer {
+width:100%;
+padding:0px;
+overflow-x:hidden;
+position:relative;
+float:left;
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="135px" height="135px" viewBox="0 0 135 135" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 33 Copy 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M52.5,105 C81.4949494,105 105,81.4949494 105,52.5 C105,23.5050506 81.4949494,0 52.5,0 C23.5050506,0 0,23.5050506 0,52.5 C0,81.4949494 23.5050506,105 52.5,105 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy-7-+-Path-Copy-8" transform="translate(15.000000, 16.000000)">
+            <g id="Group-Copy-7" transform="translate(0.000000, 0.703267)">
+                <g id="Oval-Copy-7-+-Rectangle-50-+-Rectangle-50-Copy">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#F1F1F1" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-50" fill="#D1D1D1" mask="url(#mask-2)" x="13" y="64" width="12.6588057" height="40.7894852" rx="2"></rect>
+                    <rect id="Rectangle-50-Copy" fill="#2A79BC" mask="url(#mask-2)" x="31" y="48" width="12.6588057" height="56.2613589" rx="2"></rect>
+                </g>
+                <polyline id="Path-100-Copy" stroke="#2A79BC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="4.90917537 66.4929432 8.72838178 58.4919077 20.2443787 54.3203807 27.6341767 41.4218162 38.4462194 41.4218162 47.4596177 29.5088582 55.951661 45.1758482 60.8450411 24.2164994 74.5058221 24.2164992 79.0166634 13.5674869 95.1059131 44.4265666 113.880532 9.44384291"></polyline>
+                <polygon id="Triangle-10" fill="#2A79BC" transform="translate(111.500000, 10.500000) scale(-1, -1) rotate(90.000000) translate(-111.500000, -10.500000) " points="111.5 5 118 16 105 16"></polygon>
+                <rect id="Rectangle-50-Copy-2" fill="#D1D1D1" x="49" y="55.9235753" width="12.6588057" height="45.5840269" rx="2"></rect>
+                <rect id="Rectangle-50-Copy-3" fill="#2A79BC" x="68" y="34" width="12.6588057" height="67.0353337" rx="2"></rect>
+                <rect id="Rectangle-50-Copy-4" fill="#D1D1D1" x="87" y="52.1107796" width="12.6588057" height="49.6061469" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

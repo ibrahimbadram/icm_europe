@@ -1,0 +1,59 @@
+body{
+    font-family: 'DaxRegular' !important;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+	margin-bottom: 0.5rem !important;
+    font-family: inherit !important;
+    line-height: 1.2 !important;
+}
+a:hover {
+	text-decoration:none !important;
+}
+
+#get_call_popup h3:after{
+	display:none;
+}
+
+#get_call_popup .select2-container{
+	vertical-align:top;
+}
+
+#get_call_popup.popup-section .full-width .form-group .input-field_country{
+	width:100%;
+}
+
+#get_call_popup.popup-section .select2-selection__arrow b {
+    top: 21px;
+    right: 20px;
+	width:8px;
+}
+
+#get_call_popup.popup-section .select2-selection__arrow b {
+    display: block !important;
+    border-color: #d1d1d1 transparent transparent !important;
+    border-style: solid !important;
+    border-width: 5px 4px 0 !important;
+}
+
+#get_call_popup.popup-section input[type=text], #get_call_popup.popup-section textarea{
+	margin-bottom:0;
+}
+.regulations .actions ul > li >a[href="#finish"]{
+	transition: all .5s ease-in-out;
+transition: all .5s ease-in-out;
+-moz-transition: all .5s ease-in-out;
+-ms-transition: all .5s ease-in-out;
+-o-transition: all .5s ease-in-out;
+-webkit-transition: all .5s ease-in-out;
+}
+.regulations .actions ul > li >a[href="#finish"]:hover{
+	background-color:rgba(0, 78, 127, 1);
+	color:#FFF;
+	opacity:.5;
+	
+}
+
+
+.uk-button{
+	border-radius:0 !important;
+}
